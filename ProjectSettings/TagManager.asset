@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Planet
+  - Enemy
+  - Fence
+  - Fruits
+  - Win
   layers:
   - Default
   - TransparentFX

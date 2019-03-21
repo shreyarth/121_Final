@@ -61,9 +61,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Environment\Scripts\GravityAttractor.cs" />
-    <Compile Include="Assets\PLayer\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\PLayer\Scripts\GravityBody.cs" />
-    <Compile Include="Assets\PLayer\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Low Poly Fruits\resources\fruits_tester.cs" />
+    <Compile Include="Assets\Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\Scripts\En_behavior.cs" />
+    <Compile Include="Assets\Scripts\GravityBody.cs" />
+    <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Rotation.cs" />
+    <Compile Include="Assets\SimpleEnviroment\Scripts\BasicAnimator.cs" />
+    <Compile Include="Assets\SimpleEnviroment\Scripts\Storage.cs" />
+    <None Include="Assets\SimpleEnviroment\Particles\shader\Mobile-Particle-Add_ZTOP.shader" />
+    <None Include="Assets\SimpleEnviroment\Particles\shader\Particle_Add_overlay.shader" />
+    <None Include="Assets\BrokenVector\FreeLowPolyPack\readme.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/shrey/Desktop/CMPM_121/Fin_assignment/final_ass/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
